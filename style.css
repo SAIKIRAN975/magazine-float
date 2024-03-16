@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(213, 235, 173);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    float: left;
+}
+.anchor{
+    float: right;
+    word-spacing: 20px;
+    margin-top: 10px;
+}
+.empty{
+    clear: both;
+}
+.main-header{
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+    color: rgb(248, 73, 42);
+}
+a:hover{
+    color: rgb(97, 238, 139);
+    font-size: x-large;
+}
+.pic{
+    float: left;
+}
+.empty1{
+    clear: both;
+}
+.main-article{
+    width: 900px;
+    float: left;
+}
+.main-aside{
+    width: 350px;
+    float: right;
+    background-color: rgb(198, 154, 238);
+    border-top: 5px solid rgb(250, 247, 73);
+    height: 600px;
+    border-bottom: 5px solid rgb(250, 247, 73);
+    margin-top:20px ;
+}
+.main-list li{
+    margin-left: 20px;
+    
+}
+.main-footer{
+    clear: both;
+    text-align: center;
+    background-color:aqua;
+    
+}
+.pic1{
+    float: left;
+}
+.empty2{
+    clear: both;
+}
+.para{
+    line-height: 1.5rem;
+}
+.para2{
+    float: left;
+    width: 550px;
+}
+.para3{
+    float: right;
+    width: 330px;
+    line-height: 1.5rem;
+}
+li{
+list-style: none;
+}
+.listed li{
+    margin-left: 20px;
+}
+h2{
+    padding: 20px;
+}
